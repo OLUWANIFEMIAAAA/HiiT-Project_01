@@ -12,3 +12,5 @@ icon_menu.addEventListener('click', ()=>{
 close.addEventListener("click", () => {
     nav.style.transform = "translateX(-150%)";
 });
+
+JSON
